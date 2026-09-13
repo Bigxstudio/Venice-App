@@ -1,0 +1,63 @@
+@import "tailwindcss";
+
+@layer base {
+  html, body {
+    overflow-x: hidden;
+    width: 100%;
+    position: relative;
+  }
+
+  body {
+    font-family: 'Plus Jakarta Sans', -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+    background-color: #121216;
+    color: #FAF8F5;
+  }
+
+  h1, h2, h3, h4, .font-serif {
+    font-family: 'Playfair Display', Georgia, serif;
+  }
+}
+
+/* Prevent iOS Safari auto-zoom on mobile inputs (< 16px triggers zoom) */
+@media screen and (max-width: 768px) {
+  input,
+  textarea,
+  select {
+    font-size: 16px !important;
+  }
+}
+
+/* Clean Cartographic Basemap: Distinct Blue Water, Soft Neutral Streets, Zero Shopping/Address Clutter */
+.venice-map-tiles {
+  filter: contrast(101%) brightness(99%);
+  background-color: #D5E8EB !important;
+}
+
+/* Ensure Leaflet marker, cluster, and icon layers are never filtered */
+.leaflet-marker-pane,
+.leaflet-popup-pane,
+.leaflet-overlay-pane,
+.venice-cluster-icon,
+.venice-pin-icon {
+  filter: none !important;
+}
+
+/* Reset Leaflet DivIcon default border and background */
+.leaflet-div-icon {
+  background: transparent !important;
+  border: none !important;
+}
+
+.leaflet-container {
+  background-color: #D5E8EB !important;
+  font-family: 'Plus Jakarta Sans', sans-serif !important;
+}
+
+/* Hide scrollbar for clean carousels */
+.no-scrollbar::-webkit-scrollbar {
+  display: none;
+}
+.no-scrollbar {
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+}

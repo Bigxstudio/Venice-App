@@ -1,0 +1,482 @@
+[
+  {
+    "id": "venice_0001",
+    "title": "Bridge of Sighs",
+    "caption": "1859 J.M.W. Turner",
+    "creator": "J.M.W. Turner",
+    "year": 1859,
+    "mediaType": "painting",
+    "sestiere": "San Marco",
+    "coordinates": {
+      "lat": 45.433686,
+      "lng": 12.341026
+    },
+    "imageFile": "Venmap-1.webp",
+    "rights": "Public Domain",
+    "inBounds": true
+  },
+  {
+    "id": "venice_0002",
+    "title": "Floating Bridge",
+    "caption": "Photochrom Zürich, Early 20th Century",
+    "creator": "Photochrom Zürich",
+    "year": "Early 20th Century",
+    "mediaType": "photo",
+    "sestiere": "San Marco",
+    "coordinates": {
+      "lat": 45.431022,
+      "lng": 12.335439
+    },
+    "imageFile": "Venmap-10.webp",
+    "rights": "Public Domain",
+    "inBounds": true
+  },
+  {
+    "id": "venice_0003",
+    "title": "Campo Sant' Anzolo",
+    "caption": "Unknown, Early 20th Century",
+    "creator": "Unknown",
+    "year": "Early 20th Century",
+    "mediaType": "photo",
+    "sestiere": "San Polo",
+    "coordinates": {
+      "lat": 45.434296,
+      "lng": 12.332177
+    },
+    "imageFile": "Venmap-100.webp",
+    "rights": "Public Domain",
+    "inBounds": true
+  },
+  {
+    "id": "venice_0004",
+    "title": "North Facade of the Basilica",
+    "caption": "Unknown, Early 20th Century",
+    "creator": "Unknown",
+    "year": "Early 20th Century",
+    "mediaType": "photo",
+    "sestiere": "San Marco",
+    "coordinates": {
+      "lat": 45.434741,
+      "lng": 12.3393
+    },
+    "imageFile": "Venmap-101.webp",
+    "rights": "Public Domain",
+    "inBounds": true
+  },
+  {
+    "id": "venice_0005",
+    "title": "Scene along the Grand Canal",
+    "caption": "Unknown, Early 20th Century",
+    "creator": "Unknown",
+    "year": "Early 20th Century",
+    "mediaType": "photo",
+    "sestiere": "Cannaregio",
+    "coordinates": {
+      "lat": 45.442608,
+      "lng": 12.328069
+    },
+    "imageFile": "Venmap-102.webp",
+    "rights": "Public Domain",
+    "inBounds": true
+  },
+  {
+    "id": "venice_0006",
+    "title": "Closeup of Saint Mark's Horses",
+    "caption": "Unknown, Late 19th Century",
+    "creator": "Unknown",
+    "year": "Late 19th Century",
+    "mediaType": "photo",
+    "sestiere": "San Marco",
+    "coordinates": {
+      "lat": 45.434562,
+      "lng": 12.339308
+    },
+    "imageFile": "Venmap-103.webp",
+    "rights": "Public Domain",
+    "inBounds": true
+  },
+  {
+    "id": "venice_0007",
+    "title": "Campo Santa Maria Formosa",
+    "caption": "Unknown, Early 20th Century",
+    "creator": "Unknown",
+    "year": "Early 20th Century",
+    "mediaType": "photo",
+    "sestiere": "San Marco",
+    "coordinates": {
+      "lat": 45.437343,
+      "lng": 12.340944
+    },
+    "imageFile": "Venmap-104.webp",
+    "rights": "Public Domain",
+    "inBounds": true
+  },
+  {
+    "id": "venice_0008",
+    "title": "Grand Canal facing the Cannaregio Canal",
+    "caption": "Fratelli Alinari, around 1900",
+    "creator": "Fratelli Alinari",
+    "year": 1900,
+    "mediaType": "photo",
+    "sestiere": "Cannaregio",
+    "coordinates": {
+      "lat": 45.442306,
+      "lng": 12.326365
+    },
+    "imageFile": "Venmap-105.webp",
+    "rights": "Public Domain",
+    "inBounds": true
+  },
+  {
+    "id": "venice_0009",
+    "title": "Grand Canal View",
+    "caption": "Fratelli Alinari, around 1900",
+    "creator": "Fratelli Alinari",
+    "year": 1900,
+    "mediaType": "photo",
+    "sestiere": "Dorsoduro",
+    "coordinates": {
+      "lat": 45.431676,
+      "lng": 12.328357
+    },
+    "imageFile": "Venmap-106.webp",
+    "rights": "Public Domain",
+    "inBounds": true
+  },
+  {
+    "id": "venice_0010",
+    "title": "Rio del Palazzo",
+    "caption": "Unknown, Early 20th Century",
+    "creator": "Unknown",
+    "year": "Early 20th Century",
+    "mediaType": "photo",
+    "sestiere": "San Marco",
+    "coordinates": {
+      "lat": 45.435251,
+      "lng": 12.340462
+    },
+    "imageFile": "Venmap-107.webp",
+    "rights": "Public Domain",
+    "inBounds": true
+  },
+  {
+    "id": "venice_0011",
+    "title": "Rio di Santa Marina",
+    "caption": "Fratelli Alinari, around 1900",
+    "creator": "Fratelli Alinari",
+    "year": 1900,
+    "mediaType": "photo",
+    "sestiere": "Castello",
+    "coordinates": {
+      "lat": 45.43873,
+      "lng": 12.339786
+    },
+    "imageFile": "Venmap-108.webp",
+    "rights": "Public Domain",
+    "inBounds": true
+  },
+  {
+    "id": "venice_0012",
+    "title": "Vittorio Emanuele II Monument",
+    "caption": "Unknown, Early 20th Century",
+    "creator": "Unknown",
+    "year": "Early 20th Century",
+    "mediaType": "photo",
+    "sestiere": "San Marco",
+    "coordinates": {
+      "lat": 45.4338,
+      "lng": 12.34334
+    },
+    "imageFile": "Venmap-109.webp",
+    "rights": "Public Domain",
+    "inBounds": true
+  },
+  {
+    "id": "venice_0013",
+    "title": "Palazzo Contarini and Rio de San Trovaso",
+    "caption": "Andrew Fisher Bunner",
+    "creator": "Andrew Fisher Bunner",
+    "year": "Circa 19th Century",
+    "mediaType": "painting",
+    "sestiere": "Dorsoduro",
+    "coordinates": {
+      "lat": 45.431777,
+      "lng": 12.326892
+    },
+    "imageFile": "Venmap-11.webp",
+    "rights": "Public Domain",
+    "inBounds": true
+  },
+  {
+    "id": "venice_0014",
+    "title": "Colleoni Statue",
+    "caption": "C. Naya, Late 19th Century",
+    "creator": "C. Naya",
+    "year": "Late 19th Century",
+    "mediaType": "photo",
+    "sestiere": "Castello",
+    "coordinates": {
+      "lat": 45.4393,
+      "lng": 12.341134
+    },
+    "imageFile": "Venmap-110.webp",
+    "rights": "Public Domain",
+    "inBounds": true
+  },
+  {
+    "id": "venice_0015",
+    "title": "View of the Basilica Santa Maria della Salute",
+    "caption": "Unknown, Late 19th Century",
+    "creator": "Unknown",
+    "year": "Late 19th Century",
+    "mediaType": "photo",
+    "sestiere": "Dorsoduro",
+    "coordinates": {
+      "lat": 45.431625,
+      "lng": 12.333709
+    },
+    "imageFile": "Venmap-111.webp",
+    "rights": "Public Domain",
+    "inBounds": true
+  },
+  {
+    "id": "venice_0016",
+    "title": "Corner of Doge's Palace",
+    "caption": "C. Naya, Late 19th Century",
+    "creator": "C. Naya",
+    "year": "Late 19th Century",
+    "mediaType": "photo",
+    "sestiere": "San Marco",
+    "coordinates": {
+      "lat": 45.433424,
+      "lng": 12.340082
+    },
+    "imageFile": "Venmap-112.webp",
+    "rights": "Public Domain",
+    "inBounds": true
+  },
+  {
+    "id": "venice_0017",
+    "title": "Rio San Barnaba",
+    "caption": "C. Naya, Late 19th Century",
+    "creator": "C. Naya",
+    "year": "Late 19th Century",
+    "mediaType": "photo",
+    "sestiere": "Dorsoduro",
+    "coordinates": {
+      "lat": 45.433185,
+      "lng": 12.324334
+    },
+    "imageFile": "Venmap-113.webp",
+    "rights": "Public Domain",
+    "inBounds": true
+  },
+  {
+    "id": "venice_0018",
+    "title": "Ponte del Paradiso",
+    "caption": "Photochrom Zürich, early 20th Century",
+    "creator": "Photochrom Zürich",
+    "year": "Early 20th Century",
+    "mediaType": "photo",
+    "sestiere": "Castello",
+    "coordinates": {
+      "lat": 45.437575,
+      "lng": 12.340063
+    },
+    "imageFile": "Venmap-114.webp",
+    "rights": "Public Domain",
+    "inBounds": true
+  },
+  {
+    "id": "venice_0019",
+    "title": "View from San Toma Vaporetto Stop",
+    "caption": "Unknown, Early 20th Century",
+    "creator": "Unknown",
+    "year": "Early 20th Century",
+    "mediaType": "photo",
+    "sestiere": "San Polo",
+    "coordinates": {
+      "lat": 45.435327,
+      "lng": 12.327941
+    },
+    "imageFile": "Venmap-116.webp",
+    "rights": "Public Domain",
+    "inBounds": true
+  },
+  {
+    "id": "venice_0020",
+    "title": "Campo San Vio",
+    "caption": "Unknown, Early 20th Century",
+    "creator": "Unknown",
+    "year": "Early 20th Century",
+    "mediaType": "photo",
+    "sestiere": "Dorsoduro",
+    "coordinates": {
+      "lat": 45.430675,
+      "lng": 12.330092
+    },
+    "imageFile": "Venmap-117.webp",
+    "rights": "Public Domain",
+    "inBounds": true
+  },
+  {
+    "id": "venice_0021",
+    "title": "Rio della Sensa",
+    "caption": "Tomaso Filippi, Late 19th century",
+    "creator": "Tomaso Filippi",
+    "year": "Late 19th Century",
+    "mediaType": "photo",
+    "sestiere": "Cannaregio",
+    "coordinates": {
+      "lat": 45.444455,
+      "lng": 12.333661
+    },
+    "imageFile": "Venmap-118.webp",
+    "rights": "Public Domain",
+    "inBounds": true
+  },
+  {
+    "id": "venice_0022",
+    "title": "San Giorgio Maggiore",
+    "caption": "Claude Monet, 1908",
+    "creator": "Claude Monet",
+    "year": 1908,
+    "mediaType": "painting",
+    "sestiere": "San Marco",
+    "coordinates": {
+      "lat": 45.432479,
+      "lng": 12.349537
+    },
+    "imageFile": "Venmap-12.webp",
+    "rights": "Public Domain",
+    "inBounds": true
+  },
+  {
+    "id": "venice_0023",
+    "title": "Rio Ospedaletto",
+    "caption": "Unknown, Late 19th Century",
+    "creator": "Unknown",
+    "year": "Late 19th Century",
+    "mediaType": "photo",
+    "sestiere": "Castello",
+    "coordinates": {
+      "lat": 45.438433,
+      "lng": 12.341649
+    },
+    "imageFile": "Venmap-120.webp",
+    "rights": "Public Domain",
+    "inBounds": true
+  },
+  {
+    "id": "venice_0024",
+    "title": "Rio San Martin",
+    "caption": "Unknown, Late 19th Century",
+    "creator": "Unknown",
+    "year": "Late 19th Century",
+    "mediaType": "photo",
+    "sestiere": "Castello",
+    "coordinates": {
+      "lat": 45.433489,
+      "lng": 12.348142
+    },
+    "imageFile": "Venmap-121.webp",
+    "rights": "Public Domain",
+    "inBounds": true
+  },
+  {
+    "id": "venice_0025",
+    "title": "Rio dei Tre Ponti",
+    "caption": "C. Naya, Late 19th Century",
+    "creator": "C. Naya",
+    "year": "Late 19th Century",
+    "mediaType": "photo",
+    "sestiere": "Santa Croce",
+    "coordinates": {
+      "lat": 45.436876,
+      "lng": 12.319234
+    },
+    "imageFile": "Venmap-122.webp",
+    "rights": "Public Domain",
+    "inBounds": true
+  },
+  {
+    "id": "venice_0026",
+    "title": "Staircase, Palazzo Contarini del Bovolo",
+    "caption": "Unknown, Late 19th Century",
+    "creator": "Unknown",
+    "year": "Late 19th Century",
+    "mediaType": "photo",
+    "sestiere": "San Marco",
+    "coordinates": {
+      "lat": 45.434882,
+      "lng": 12.334677
+    },
+    "imageFile": "Venmap-123.webp",
+    "rights": "Public Domain",
+    "inBounds": true
+  },
+  {
+    "id": "venice_0027",
+    "title": "Rio de le Toresele",
+    "caption": "C. Naya, Late 19th Century",
+    "creator": "C. Naya",
+    "year": "Late 19th Century",
+    "mediaType": "photo",
+    "sestiere": "Dorsoduro",
+    "coordinates": {
+      "lat": 45.43039,
+      "lng": 12.330745
+    },
+    "imageFile": "Venmap-124.webp",
+    "rights": "Public Domain",
+    "inBounds": true
+  },
+  {
+    "id": "venice_0028",
+    "title": "Rio delle Tette",
+    "caption": "P. Salviati, Late 19th Century",
+    "creator": "P. Salviati",
+    "year": "Late 19th Century",
+    "mediaType": "photo",
+    "sestiere": "San Polo",
+    "coordinates": {
+      "lat": 45.438844,
+      "lng": 12.330933
+    },
+    "imageFile": "Venmap-125.webp",
+    "rights": "Public Domain",
+    "inBounds": true
+  },
+  {
+    "id": "venice_0029",
+    "title": "Rio Noale",
+    "caption": "P. Salviati, Late 19th Century",
+    "creator": "P. Salviati",
+    "year": "Late 19th Century",
+    "mediaType": "photo",
+    "sestiere": "Cannaregio",
+    "coordinates": {
+      "lat": 45.442631,
+      "lng": 12.333382
+    },
+    "imageFile": "Venmap-126.webp",
+    "rights": "Public Domain",
+    "inBounds": true
+  },
+  {
+    "id": "venice_0030",
+    "title": "Rio Albrizzi",
+    "caption": "P. Salviati, Late 19th Century",
+    "creator": "P. Salviati",
+    "year": "Late 19th Century",
+    "mediaType": "photo",
+    "sestiere": "San Polo",
+    "coordinates": {
+      "lat": 45.438261,
+      "lng": 12.330328
+    },
+    "imageFile": "Venmap-127.webp",
+    "rights": "Public Domain",
+    "inBounds": true
+  }
+]
